@@ -2,7 +2,7 @@
 # Computer Science I 
 ## Lab 2.0 Worksheet
 
-Name(s) and Login(s):
+Name(salman khan) and Login(salman khan):
 
 
 
@@ -11,7 +11,7 @@ was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
 
-
+He is -68 years,-2 weeks, and -4 days old today
 
 
 2. Bjarne Stroustrup, the creator of the C++ programming
@@ -36,6 +36,13 @@ results you observe.
 * `char`
   size: 1 byte
   range: -128 to 127
+  Minimum value for signed char: -128
+  Maximum value for signed char: 127
+  Mainimum value for unsigned char: 0
+  Maximum value for unsigned char:255
+  Minimum value for char :-128
+  Maximum value for char :127
+  size of signed char : 1 byte
 * `short int`
   size:
   range:
