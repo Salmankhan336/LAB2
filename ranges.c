@@ -1,5 +1,6 @@
 /**
- * Author: Chris Bourke
+ * Author: Salman Khan
+ * Section:2C
  *
  * This program outputs data on the limits of various
  * data types.
