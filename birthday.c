@@ -10,7 +10,7 @@
 #include <ctype.h>
 #include <time.h>
 
-//start program 
+//now start 
 
 //program calculate the birht date
 
