@@ -1,5 +1,5 @@
 /**
- * Author: Chris Bourke
+ * Author: Salman khan
  *
  * This program interactively prompts the user for
  * their birthday and computes how old they are.
@@ -9,6 +9,10 @@
 #include <string.h>
 #include <ctype.h>
 #include <time.h>
+
+//start program 
+
+//program calculate the birht date
 
 int main(int argc, char **argv) {
 
