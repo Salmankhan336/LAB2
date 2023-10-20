@@ -44,8 +44,11 @@ results you observe.
   Maximum value for char :127
   size of signed char : 1 byte
 * `short int`
-  size:
+  size: 2 bytes
   range:
+  Minimum value for unsigned short:0
+  Maximum Value for unsigned short:65535
+  size of signed short : 2 bytes
 * `int`
   size:
   range:
