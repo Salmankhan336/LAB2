@@ -1,5 +1,5 @@
 /**
- * Author: Chris Bourke
+ * Author: salman khan
  * 
  * This program prompts the user to enter the
  * base and the height of a triangle and computes
@@ -12,9 +12,15 @@
 
 int main(int argc, char **argv) {
 
+  //declared area, base ,height in double data type
+
   double area, base, height;
 
+  //use printf predefine function to print the message on console
+
   printf("Please enter the base of a triangle: ");
+
+  //use scanf function to read the base value from user
 
   scanf("%lf", &base);
 
