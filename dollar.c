@@ -31,7 +31,7 @@ int main()
     //results
     printf("amount in usdollars: %.2f\n", USD);
     printf("exchage fee: $%.2f\n", exchange_rate);
-    printf("amount in gbp: $%.2f\n",Pound_convert );
+    printf("amount in gbp: %.2f\n",Pound_convert );
     printf("amount in jpy: %.2f jpy\n", JPY_convert);
 
     return 0;
