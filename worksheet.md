@@ -75,7 +75,7 @@ Hello: Abdullah. You are 20 years,31 weeks,and 3 days old
   size of signed long: 4 bytes
   minimum value for unsigned long : 0
   maximum value unsigned long ; 4294967295
-  size of unsigned long: 4 bytes 
+  size of unsigned long:  4 bytes 
 * `float`
   size:
   range: 7 digits of accuracy
