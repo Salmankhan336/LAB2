@@ -62,7 +62,12 @@ Hello: Abdullah. You are 20 years,31 weeks,and 3 days old
   Maximum Value for unsigned short:65535
   size of signed short : 2 bytes
 * `int`
-  size:
+  minimum value for signed int: -2147483648
+  maximum value for signed int: 2147483647
+  size of signed int: 4 bytes
+  maximum value for unsigned int: 0
+  maximum value for unsigned int: 4294967295
+  size of unsigned int: 4 bytes
   range:
 * `long int`
   size:
@@ -73,6 +78,8 @@ Hello: Abdullah. You are 20 years,31 weeks,and 3 days old
 * `double`
   size:
   range: 15 digits of accuracy
+
+
 
 
 5. Use your working currency conversion to determine
