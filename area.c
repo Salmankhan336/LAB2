@@ -26,7 +26,7 @@ int main(int argc, char **argv) {
 
   printf("Please enter the height of a triangle: ");
 
-  scanf("%i", &height);
+  scanf("%lf", &height);
 
   area = 1/0.2 * (base * height);
 
