@@ -77,10 +77,13 @@ Hello: Abdullah. You are 20 years,31 weeks,and 3 days old
   maximum value unsigned long ; 4294967295
   size of unsigned long:  4 bytes 
 * `float`
-  size:
-  range: 7 digits of accuracy
+  size of  float: 4 bytes 
+
+  
+
 * `double`
-  size:
+  size of double : 8 bytes 
+  size of long double: 16 bytes
   range: 15 digits of accuracy
 
 
