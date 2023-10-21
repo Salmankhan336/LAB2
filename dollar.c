@@ -1,10 +1,15 @@
 #include <stdio.h>
 int main()
 {
-    double usdollars, gbp, jpy, exchangefee;
+    const float jpy=127.65;
+
+    const float pound=0.79;
+    float exchange_rate=0.10;
+
+    float USD;
     //inputs the amounts in usdollars
     printf("enter the amount in us dollars");
-    scanf("%if", &usdollars);
+    scanf("%if", &USD);
     
     //calculate the exchange fee which is 10% of the total amount
     exchangefee = 0.10 * usdollars;
