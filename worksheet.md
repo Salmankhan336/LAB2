@@ -93,10 +93,25 @@ Hello: Abdullah. You are 20 years,31 weeks,and 3 days old
 the exchange amounts for the following inputs:
 
   a) $250.25
+  Enter the amount in US Dollars: 250.25
+Amount in USD: $250.25
+Exchange Fee: $25.03
+Amount in GBP: 88.96
+Amount in JPY: 14374 JPY
 
   b) $1,000.52
+  Enter the amount in US Dollars: 250.25
+Amount in USD: $250.25
+Exchange Fee: $25.03
+Amount in GBP: ┬ú88.96
+Amount in JPY: 14374 JPY
 
   c) $968,410.12
+  Enter the amount in US Dollars: 968410.12
+Amount in USD: $968410.12
+Exchange Fee: $96841.01
+Amount in GBP: ┬ú344269.80
+Amount in JPY: 55627898 JPY
 
 
 
@@ -105,6 +120,7 @@ in your conversion program.  Would you be able
 to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
+if we use only int types in our prgrogram we cannot covert the us national debit because the range of int is -2,147,483,648 to 2,147,483,647 so we cannot store the large value
 
 
 

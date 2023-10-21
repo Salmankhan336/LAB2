@@ -13,8 +13,8 @@ int main()
     double remainingdollars = usdollars - exchangefee;
 
     //calculate the amount in gbp and jpy
-    gbp = remainingDollars * 0.79 / 2.0;
-    jpy = remainingDollars * 127.65 / 2.0;
+    gbp = remainingdollars * 0.79 / 2.0;
+    jpy = remainingdollars * 127.65 / 2.0;
 
     //results
     printf("amount in usdollars: $&.2if\n", usdollars);
