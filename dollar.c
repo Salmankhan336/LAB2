@@ -7,15 +7,20 @@ int main()
     float exchange_rate=0.10;
 
     float USD;
+
+    float JPY_convert, Pound_convert,remaning_USD;
     //inputs the amounts in usdollars
     printf("enter the amount in us dollars");
     scanf("%if", &USD);
     
     //calculate the exchange fee which is 10% of the total amount
-    exchangefee = 0.10 * usdollars;
+    exchange_rate=USD * exchange_rate;
+
+    remaning_USD=USD - exchange_rate;
+
 
     //calculate te amount after deducting the exchange fee
-    double remainingdollars = usdollars - exchangefee;
+    
 
     //calculate the amount in gbp and jpy
     gbp = remainingdollars * 0.79 / 2.0;
