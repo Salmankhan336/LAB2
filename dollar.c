@@ -18,19 +18,21 @@ int main()
 
     remaning_USD=USD - exchange_rate;
 
+   JPY_convert=(remaning_USD * 0.5 * jpy);
+
+   Pound_convert=(remaning_USD * 0.5 pound);
 
     //calculate te amount after deducting the exchange fee
     
 
     //calculate the amount in gbp and jpy
-    gbp = remainingdollars * 0.79 / 2.0;
-    jpy = remainingdollars * 127.65 / 2.0;
+   
 
     //results
-    printf("amount in usdollars: $&.2if\n", usdollars);
-    printf("exchage fee: $&.2if\n", exchangefee);
-    printf("amount in gbp: £&.2if\n", gbp );
-    printf("amount in jpy: %d jpy\n", (int)jpy);
+    printf("amount in usdollars: $&.2if\n", USD);
+    printf("exchage fee: $&.2if\n", exchange_rate);
+    printf("amount in gbp: £&.2if\n",Pound_convert );
+    printf("amount in jpy: %d jpy\n", JPY_convert);
 
     return 0;
 
