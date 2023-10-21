@@ -121,4 +121,5 @@ the answer i get is 75 square units which is incorrect
 
 
 c) Fix the program by editing the `area.c` source
-code so that the program produces correct results.
+code so that the program produces correct results
+in the program area.c the area of tringle is incorrect so we put the correct formula which gives the correct result
