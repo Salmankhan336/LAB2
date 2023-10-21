@@ -113,10 +113,11 @@ Why or why not?
 
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
-
+the answer i get is 60 square units which is incorrect
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
+the answer i get is 75 square units which is incorrect
 
 
 c) Fix the program by editing the `area.c` source
